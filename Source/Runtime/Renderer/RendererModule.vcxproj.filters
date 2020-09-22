@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Renderer\Precompiled.cpp" />
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Renderer\Private\Windows\WindowsGDI.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Renderer\Private\Windows\WindowsRSI.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Renderer\Precompiled.h" />
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Renderer\Public\RendererHeaders.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Renderer\Public\RenderingSoftwareInterface.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Renderer\Public\Windows\WindowsGDI.h">
+      <Filter>Public\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Renderer\Public\Windows\WindowsRSI.h">
+      <Filter>Public\Windows</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Private">
+      <UniqueIdentifier>{F4E38DE7-8B5C-3A74-9683-BE0381E71236}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{4A1EADCC-07DE-383D-9AA6-DDD4D1BED7DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public">
+      <UniqueIdentifier>{350883EF-3CC3-3ABC-9FA0-BAE325B3BCA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\Windows">
+      <UniqueIdentifier>{F348986F-9FCE-3121-9D7D-80B155F85FFB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

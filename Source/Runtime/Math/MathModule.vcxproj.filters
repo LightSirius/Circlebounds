@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Precompiled.cpp" />
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\Circle.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\Color32.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\LinearColor.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\Math.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\Matrix2x2.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\Matrix3x3.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\Matrix4x4.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\Rectangle.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\Vector2.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\Vector3.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Private\Vector4.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Precompiled.h" />
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Circle.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Color32.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\CoreDefinition.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\LinearColor.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\MathHeaders.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\MathUtil.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Matrix2x2.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Matrix3x3.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Matrix4x4.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Platform.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Rectangle.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\ScreenPoint.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Vector2.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Vector3.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Vector4.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\!Univ\EngineProg\3_circlebounds_practice\Source\Runtime\Math\Public\Windows\WindowsPlatform.h">
+      <Filter>Public\Windows</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Private">
+      <UniqueIdentifier>{F4E38DE7-8B5C-3A74-9683-BE0381E71236}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public">
+      <UniqueIdentifier>{350883EF-3CC3-3ABC-9FA0-BAE325B3BCA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\Windows">
+      <UniqueIdentifier>{F348986F-9FCE-3121-9D7D-80B155F85FFB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
